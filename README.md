@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>HamsterMC - Inicio</title>
 </head>
 <body>
   <h1>🐹 Bienvenido a HamsterMC</h1>
